@@ -6,13 +6,13 @@ Welcome to the guide for pre-employment requirements for students pursuing a Bac
 
 ## Pre-Employment Requirements for BSIT and CS Students
 
-1. [Acquire NBI Clearance](#1-acquire-nbi-clearance)
-2. [Secure PhilHealth Number](#2-secure-philhealth-number)
-3. [Obtain TIN (Tax Identification Number)](#3-obtain-tin-tax-identification-number)
-4. [Apply for SSS (Social Security System)](#4-apply-for-sss-social-security-system)
-5. [Secure Birth Certificate](#5-secure-birth-certificate)
-6. [Open a Bank Account](#6-open-a-bank-account)
-7. [Update School Documents](#7-update-school-documents)
+1. [Acquire NBI Clearance](acquire-nbi-clearance)
+2. [Secure PhilHealth Number](secure-philhealth-number)
+3. [Obtain TIN (Tax Identification Number)](obtain-tin-tax-identification-number)
+4. [Apply for SSS (Social Security System)](apply-for-sss-social-security-system)
+5. [Secure Birth Certificate](secure-birth-certificate)
+6. [Open a Bank Account](#open-a-bank-account)
+7. [Update School Documents](update-school-documents)
 
 ## How to Improve Your Job Prospects
 
