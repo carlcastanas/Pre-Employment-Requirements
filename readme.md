@@ -12,6 +12,8 @@
 
 </div>
 
+# Summary
+
 Welcome to the guide for pre-employment requirements for students pursuing a Bachelor of Science in Information Technology (BSIT) and Computer Science (CS) in the Philippines. This document outlines the essential documents and steps to ensure a smooth transition from academics to the professional world.
 
 # Table of Contents
