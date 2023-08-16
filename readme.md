@@ -26,6 +26,14 @@ Welcome to the guide for pre-employment requirements for students pursuing a Bac
 6. [Open a Bank Account](#6-open-a-bank-account)
 7. [Update School Documents](#7-update-school-documents)
 
+
+## LeetCode Preparation
+
+1. [Introduction to LeetCode](#1-introduction-to-leetcode)
+2. [Problem Solving Strategies](#2-problem-solving-strategies)
+3. [Technical Interview Tips](#3-technical-interview-tips)
+4. [Recommended Resources](#4-recommended-resources)
+
 ## How to Improve Your Job Prospects
 
 1. [Follow for Future Collaboration](#1-follow-for-future-collaboration)
@@ -68,6 +76,40 @@ Welcome to the guide for pre-employment requirements for students pursuing a Bac
 ## 7. Update School Documents:
    - Gather copies of your diploma and Transcript of Records (TOR) from your university registrar.
    - Ensure that these documents accurately reflect your academic achievements.
+
+## LeetCode Preparation
+
+Preparing for technical interviews often involves practicing coding problems on platforms like [LeetCode](https://leetcode.com/). Here are some tips to help you make the most of your LeetCode preparation:
+
+### 1. Introduction to LeetCode
+
+LeetCode is a popular online platform that offers a wide range of coding challenges, including data structures, algorithms, and technical interview questions. It's essential to familiarize yourself with the platform's interface and features before you start practicing.
+
+### 2. Problem Solving Strategies
+
+- **Categorize Problems:** Organize problems by categories such as arrays, linked lists, trees, sorting, searching, dynamic programming, etc.
+- **Start with Easy:** Begin with [easier problems](https://leetcode.com/problemset/algorithms/?difficulty=Easy) to build a strong foundation before moving on to more challenging ones.
+- **Understand Requirements:** Carefully read and understand the [problem statement](https://leetcode.com/problemset/all/), inputs, and expected outputs.
+- **Plan and Pseudocode:** Outline your approach before writing code. Pseudocode can help clarify your thoughts.
+- **Optimize:** After solving, optimize your solution for time and space complexity if possible.
+
+### 3. Technical Interview Tips
+
+- **Practice Consistently:** Regular practice is key. Set aside dedicated time each day to work on coding problems.
+- **Simulate Interview Conditions:** Practice in conditions similar to real interviews, including time limits and distractions.
+- **Review Solutions:** Even after solving a problem, review [optimized solutions](https://leetcode.com/problems/two-sum/discuss/?currentPage=1&orderBy=most_votes&query=) provided by LeetCode's community for alternative approaches.
+- **Focus on Understanding:** It's more important to understand the underlying concepts than memorizing specific solutions.
+- **Learn from Mistakes:** Don't get discouraged by failures. Analyze your mistakes and learn from them.
+
+### 4. Recommended Resources
+
+- **[LeetCode Discuss](https://leetcode.com/discuss/interview-question/)**: Read through discussions on LeetCode problems to understand different approaches.
+- **[Top Interview Questions](https://leetcode.com/problemset/top-interview-questions/)**: LeetCode's curated list of top interview questions is a great starting point.
+- **[Algorithms and Data Structures Courses](https://www.coursera.org/specializations/algorithms)**: Consider online courses like Coursera's "[Algorithms Specialization](https://www.coursera.org/specializations/algorithms)" or edX's "[Data Structures and Algorithms](https://www.edx.org/course/data-structures-and-algorithms)".
+
+Remember, LeetCode is just one tool in your technical interview preparation toolbox. Combine it with other resources, mock interviews, and whiteboard practice to improve your overall performance during interviews.
+
+Good luck with your preparation!
 
 
 # How to Improve Your Job Prospects
