@@ -1,10 +1,20 @@
-# Pre-Employment Requirements for BSIT and CS Students
+<div align="center">
+  <img src="./assets/gif/web.gif" alt="Icreatechs Logo">
+  <h3>Pre-Employment Requirements for BSIT and CS Students</h3>
+  <div align="center">
+
+[![GitHub Stars](https://img.shields.io/github/stars/carlcastanas/Pre-Employment-Requirements)](https://github.com/carlcastanas/Pre-Employment-Requirements/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/carlcastanas/Pre-Employment-Requirements)](https://github.com/carlcastanas/Pre-Employment-Requirements/network/members)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/company/icreatechs-aus)](https://www.linkedin.com/company/icreatechs-aus)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=carlcastanas.Pre-Employment-Requirements)
+
+</div>
+
+</div>
 
 Welcome to the guide for pre-employment requirements for students pursuing a Bachelor of Science in Information Technology (BSIT) and Computer Science (CS) in the Philippines. This document outlines the essential documents and steps to ensure a smooth transition from academics to the professional world.
 
 # Table of Contents
-
-## Pre-Employment Requirements for BSIT and CS Students
 
 1. [Acquire NBI Clearance](#1-acquire-nbi-clearance)
 2. [Secure PhilHealth Number](#2-secure-philhealth-number)
