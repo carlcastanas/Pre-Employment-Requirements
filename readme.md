@@ -6,13 +6,13 @@ Welcome to the guide for pre-employment requirements for students pursuing a Bac
 
 ## Pre-Employment Requirements for BSIT and CS Students
 
-1. [Acquire NBI Clearance](acquire-nbi-clearance)
-2. [Secure PhilHealth Number](secure-philhealth-number)
-3. [Obtain TIN (Tax Identification Number)](obtain-tin-tax-identification-number)
-4. [Apply for SSS (Social Security System)](apply-for-sss-social-security-system)
-5. [Secure Birth Certificate](secure-birth-certificate)
-6. [Open a Bank Account](#open-a-bank-account)
-7. [Update School Documents](update-school-documents)
+1. [Acquire NBI Clearance](#1-acquire-nbi-clearance)
+2. [Secure PhilHealth Number](#2-secure-philhealth-number)
+3. [Obtain TIN (Tax Identification Number)](#3-obtain-tin-tax-identification-number)
+4. [Apply for SSS (Social Security System)](#4-apply-for-sss-social-security-system)
+5. [Secure Birth Certificate](#5-secure-birth-certificate)
+6. [Open a Bank Account](#6-open-a-bank-account)
+7. [Update School Documents](#7-update-school-documents)
 
 ## How to Improve Your Job Prospects
 
@@ -21,39 +21,39 @@ Welcome to the guide for pre-employment requirements for students pursuing a Bac
 3. [GitHub Portfolio](#3-github-portfolio)
 4. [Interview Preparation](#4-interview-preparation)
 
-1. **Acquire NBI Clearance:**
+## 1. Acquire NBI Clearance:
    - Register on the official [NBI portal](https://clearance.nbi.gov.ph).
    - Follow the application instructions.
    - Pay the fee and retain the receipt and reference number.
    - Visit the nearest NBI branch with valid IDs, receipt, and reference number.
    - After clearance, claim your NBI certificate.
 
-2. **Secure PhilHealth Number:**
+## 2. Secure PhilHealth Number:
    - Print and complete two copies of the PhilHealth Membership Registration Form (PMRF).
    - Collect necessary documents, such as barangay clearance, birth certificate/ID photocopy.
    - Submit requirements at a local PhilHealth branch or apply online through the [PhilHealth portal](https://eregister.PhilHealth.gov.ph).
 
-3. **Obtain TIN (Tax Identification Number):**
+## 3. Obtain TIN (Tax Identification Number):
    - Fill out a BIR Form 1902.
    - Gather birth certificate and a valid ID.
    - Submit documents and Form 1902 to your employer's HR department or apply through your [RDO](https://www.bir.gov.ph/index.php/rdo-external-service-01.html).
 
-4. **Apply for SSS (Social Security System):**
+## 4. Apply for SSS (Social Security System):
    - Initiate an online application via the [SSS website](https://www.sss.gov.ph/sss/rcsmi/newApplication.html).
    - Assemble essential documents, including birth certificate and government-issued IDs.
    - Submit all forms and documents at a nearby SSS branch.
 
-5. **Secure Birth Certificate:**
+## 5. Secure Birth Certificate:
    - Head to a Census Serbilis Center or Business Center near you.
    - Complete the birth certificate application form, undergo information screening, and pay the fee.
    - Collect your birth certificate from the releasing area. Visit [PSA Serbilis](https://www.psaserbilis.com.ph/Census/BirthCertificate) for more information.
 
-6. **Open a Bank Account:**
+## 6. Open a Bank Account:
    - Choose a reputable bank that meets your needs.
    - Gather necessary identification documents, proof of address, and other requirements.
    - Visit the bank branch and follow their account opening procedure.
 
-7. **Update School Documents:**
+## 7. Update School Documents:
    - Gather copies of your diploma and Transcript of Records (TOR) from your university registrar.
    - Ensure that these documents accurately reflect your academic achievements.
 
